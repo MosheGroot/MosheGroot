@@ -2,7 +2,9 @@
 ###### My common nicknames are pp189, pp189b and mgroot.
 
 ## About me
-Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). Below you can find my social networks, old or current projects and my expertises.
+Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and a little bit of deep learning.
+
+Below you can find my social networks, old or current projects and my expertises.
 
 ## Me in other networks
 
