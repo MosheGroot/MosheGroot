@@ -2,7 +2,7 @@
 ###### My common nicknames are pp189, pp189b and mgroot.
 
 ## About me
-Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). Below you can find my social networks, old or current projects and my exertises.
+Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). Below you can find my social networks, old or current projects and my expertises.
 
 ## Me in other networks
 
@@ -47,6 +47,9 @@ Most of my usefull projects are notes. Some other interesting programming projec
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=yellow)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
