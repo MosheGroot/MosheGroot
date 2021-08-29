@@ -15,7 +15,7 @@ Welcome to my github profile. My name is Pavel and I am a student of School 21 (
 
 Most of my usefull projects are notes. Some other interesting programming projects are private or in progress.
 
-* [42 projects archive](https://github.com/PP189B/42projects_archive) -- interesting projects from Ecole42 (rest are in private repo).
+* [42 projects archive](https://github.com/PP189B/42projects_archive) -- interesting projects from Ecole42 (the rest in private repo).
 * [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes) -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera. Study temporarily suspended.
 * [Probability theory notes [rus]](https://github.com/PP189B/Probability_theory) -- uncomplete notes from (not very good quality) university course.
 * [Neovim lua config](https://github.com/PP189B/nv-lua) -- fork of my friend's Neovim config with some changes.
