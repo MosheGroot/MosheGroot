@@ -71,5 +71,5 @@ Most of my usefull projects are notes. Some other interesting programming projec
 [habr_link]: https://habr.com/ru/users/pp189b/posts/
 [habr_badge]: https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white "Habr profile"
 
-[42_link]: https://profile.intra.42.fr
+[42_link]: https://profile.intra.42.fr/users/mgroot
 [42_badge]: https://img.shields.io/badge/Ecole42-000000?style=for-the-badge&logo=42&logoColor=white "Ecole 42 profile"
