@@ -23,7 +23,7 @@ Most of my usefull projects are notes. Some other interesting programming projec
 * [Neovim lua config](https://github.com/PP189B/nv-lua) -- fork of my friend's Neovim config with some changes.
 * [Simple i3wm config](https://github.com/PP189B/my-linux-configs) -- just little repo for i3wm configuration after installing. Someone might find this useful.
 
-* (in progress)ft_containers -- rewrite STL vector, map, stack and set in C++98 standart.
+* (in progress) webserv -- implementation of webserver (like nginx) with custom configs.
 
 ## My expertises
 
