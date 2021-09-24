@@ -48,6 +48,8 @@ Most of my usefull projects are notes. Some other interesting programming projec
 
 ##### At pet-projects:
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
