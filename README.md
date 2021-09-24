@@ -34,7 +34,10 @@ Most of my usefull projects are notes. Some other interesting programming projec
 ##### At work:
 ![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Cur](https://img.shields.io/badge/Curl-073551?style=for-the-badge&logo=curl&logoColor=white)
+![Libcurl](https://img.shields.io/badge/libcurl-073551?style=for-the-badge&logo=curl&logoColor=white)
+
+![Fiddler](https://img.shields.io/badge/Fiddler-34343C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAACClBMVEUxIkgxI0cyJkYyJ0QyJ0UyKUQzKkMzK0MzMEI0LUI0LUM0LkI0LkM0L0I0MUE0MUI1L0M1MEM1MUI1MkE1MkI1M0E1NEA1NEE1NT81NUA1Nj82NEE2NUE2NkA2NkE2Nz82N0A2OT82Oj42Oj82Oz02Oz42PD03OEA3OT83OUA3Oj83Oz43Oz83PD43PD83PTw3Pzw4PD44PD84PT44Qjw4RDo4RTo5RTo6TTc6TjY6UDc6UjQ7UjQ7UjY7VDQ8VzQ+XjI+YTA+Yi8+YjA+Yy8/YTA/YjA/Yy8/YzBAZy5AbSxBayxBbStBcStCdilDdSlDdihDeyZEeydEfCZFeydFfCdFfyZHjiBHjx9IjyBIkCBJlR5Jlh5Klh1KmBxLmxxLnxpMpBhNoxlNqRZNqRdOqhVOqxVOrhRPrhNQsBNQtBJRuRBSuBBSvg5Svg9TwQ5TxA9UyAxVzAtWzQpWzghWzwlW0wdXzwhX0ghX0whX1QdX2QdY1QdY1gdY2wdZ3wRa3gJa3wFa3wJa4AFa4ARa4QFa4wNa5AFb4QFb4gBb4gFb4wBb4wFb5ABb5AJb5QBb5QFb5QJb5gBb6ABc5wBc6ABc6QBc6QFc6gBc6wBc6wFc7ABc7QBd7ABd7gBd7wBd8ABd8AFd8QBe8ABe8gBe8wBe9ABe9QBe9gBf9wBf+gBf+wBg/QD///8O+xe7AAABf0lEQVR42nTQY1u0QRQA4JfZtt08aa5s24ts23atbe9Om+tHro3z9T7+VeA1nAgAbwTT0qBHwkBQZUUQwDxQRMLIxcVwQgQsdKWMlm0kEqHdtuAkCBwJi+57/rynM0gq+VJ1QD7mWAXzmneQiMSiM9HTeHE0sBEGggt9/UZPtBwSi8TXnrUmYlaKiB04XKn6VTJN1jBYjLuvqQBoocL2LbVUczuR/bt+VUBhkTTEIDOBlNrLH/qjodHxYIgPQUEjvYxZqACklc/w1HQ6Vfy6FtIkYziQwYIaN9RSBkl0HdelcCSDweTIngMhXXwU0yFzpqKyyMw/Q9pH8akbxQb2zwXhkJUQ0UZ5Dcsfe3/xBjI0VDDu3iYDrMvX3XxLN//j0YPwKr5DTNKwe6Ms3wDpNfPve/qxhMyZsCyTx33p9GQLRBjqSHN6x7OHrqkMVhLwLHTklUEKeW1DIXl+/yQDbi0NExVBaGQywKNfS00IlDTUtQwxk42GoQ7uxKZFrBQA2lKrCicnrJoAAAAASUVORK5CYII=&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
