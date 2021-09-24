@@ -10,8 +10,9 @@ Below you can find my social networks, old or current projects and my expertises
 
 [![Telegram contact][telegram_badge]][telegram_link]
 [![Linkedin profile][linkedin_badge]][linkedin_link]
-[![Habr contact][habr_badge]][habr_link]
-[![Habr contact][42_badge]][42_link]
+[![Habr profile][habr_badge]][habr_link]
+[![Stackoverflow profile][stackoverflow_badge]][stackoverflow_link]
+[![42 profile][42_badge]][42_link]
 
 ## My projects
 
@@ -90,3 +91,6 @@ Most of my usefull projects are notes. Some other interesting programming projec
 
 [42_link]: https://profile.intra.42.fr/users/mgroot
 [42_badge]: https://img.shields.io/badge/Ecole42-000000?style=for-the-badge&logo=42&logoColor=white "Ecole 42 profile"
+
+[stackoverflow_link]: https://stackoverflow.com/users/15247243/mgroot
+[stackoverflow_badge]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "Stackoverflow profile"
