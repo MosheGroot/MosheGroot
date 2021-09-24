@@ -21,7 +21,7 @@ Most of my usefull projects are notes. Some other interesting programming projec
 * [42 projects archive](https://github.com/PP189B/42projects_archive) -- interesting projects from Ecole42 (the rest in private repo).
   * webserv \[*in progress*\] -- implementation of webserver (like nginx) with custom configs.
 * [Сurrency rate chart parser](https://github.com/PP189B/Currency_rate_chart_parser) \[*in progress*\] -- pet-project with Boost.ASIO, patterns and SQL in modern C++20.
-* [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes) -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera. Study temporarily suspended.
+* [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes) -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera. Study is temporarily suspended.
 * [Probability theory notes [rus]](https://github.com/PP189B/Probability_theory) -- uncomplete notes from (not very good quality) university course.
 * [Neovim lua config](https://github.com/PP189B/nv-lua) -- fork of my friend's Neovim config with some changes.
 * [Simple i3wm config](https://github.com/PP189B/my-linux-configs) -- just little repo for i3wm configuration after installing. Someone might find this useful.
