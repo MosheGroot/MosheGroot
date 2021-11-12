@@ -66,9 +66,7 @@ Most of my usefull projects are notes. Some other interesting programming projec
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Familiar with[Pavel_Kirin_CV_ru.pdf](https://github.com/PP189B/PP189B/files/7526555/Pavel_Kirin_CV_ru.pdf)
-[Pavel_Kirin_CV_en.pdf](https://github.com/PP189B/PP189B/files/7526556/Pavel_Kirin_CV_en.pdf)
-
+### Familiar with
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
