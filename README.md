@@ -4,7 +4,7 @@
 ## About me
 Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and a little bit of deep learning.
 
-Below you can find my social networks, old or current projects and my expertises.
+Below you can find my social networks, CV, old or current projects and my expertises.
 
 ## Me in other networks
 
@@ -13,6 +13,11 @@ Below you can find my social networks, old or current projects and my expertises
 [![Habr profile][habr_badge]][habr_link]
 [![Stackoverflow profile][stackoverflow_badge]][stackoverflow_link]
 [![42 profile][42_badge]][42_link]
+
+## CV
+
+[![CV_en][CV_en]][CV_ru_path]
+[![CV_ru][CV_ru]][CV_ru_path]
 
 ## My projects
 
@@ -61,7 +66,9 @@ Most of my usefull projects are notes. Some other interesting programming projec
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Familiar with
+### Familiar with[Pavel_Kirin_CV_ru.pdf](https://github.com/PP189B/PP189B/files/7526555/Pavel_Kirin_CV_ru.pdf)
+[Pavel_Kirin_CV_en.pdf](https://github.com/PP189B/PP189B/files/7526556/Pavel_Kirin_CV_en.pdf)
+
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -82,7 +89,11 @@ Most of my usefull projects are notes. Some other interesting programming projec
 
 
 
+[CV_en_path]: Pavel_Kirin_CV_en.pdf
+[CV_en]: https://img.shields.io/badge/CV%20[EN]-D3182A?style=for-the-badge&logoColor=white
 
+[CV_ru_path]: Pavel_Kirin_CV_ru.pdf
+[CV_ru]: https://img.shields.io/badge/CV%20[RU]-D3182A?style=for-the-badge&logoColor=white
 
 [telegram_link]: https://t.me/pp189b
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
