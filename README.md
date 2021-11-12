@@ -16,7 +16,7 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 ## CV
 
-[![CV_en][CV_en]][CV_ru_path]
+[![CV_en][CV_en]][CV_en_path]
 [![CV_ru][CV_ru]][CV_ru_path]
 
 ## My projects
