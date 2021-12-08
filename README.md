@@ -14,6 +14,8 @@ Below you can find my social networks, CV, old or current projects and my expert
 [![Stackoverflow profile][stackoverflow_badge]][stackoverflow_link]
 [![42 profile][42_badge]][42_link]
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mgroot)](https://github.com/JaeSeoKim/badge42)
+
 ## CV
 
 [![CV_en][CV_en]][CV_en_path]
