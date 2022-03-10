@@ -25,12 +25,15 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 Most of my usefull projects are notes. Some other interesting programming projects are private or in progress.
 
-* [42 projects archive](https://github.com/PP189B/42projects_archive) -- interesting projects from Ecole42 (the rest in private repo).
-  * webserv \[*in progress*\] -- implementation of webserver (like nginx) with custom configs.
+* [42 projects archive](https://github.com/PP189B/42projects_archive) --  interesting projects from Ecole42 (the rest in private repo).
+  + [webserv](https://github.com/PP189B/webserver21/):           Implementation of webserver (like nginx)
+  + [ft_containers](https://github.com/PP189B/42projects_archive/tree/main/ft_containers):   Rewriting of some STL containers
+  + [minishell](https://github.com/LinearBasis/minishell):          Own implementation of shell
+  + [miniRT](https://github.com/PP189B/42projects_archive/tree/main/miniRT):             Raytracing project with multi-threading
+  + [philosophers](https://github.com/PP189B/42projects_archive/tree/main/philosophers):   Two classic multithreading and IPC problems
+  + [ft_printf](https://github.com/PP189B/42projects_archive/tree/main/ft_printf):            Own implementation system `printf` function
 * [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
 * [Probability theory notes [rus]](https://github.com/PP189B/Probability_theory) -- uncomplete notes from (not very good quality) university course.
-* [Neovim lua config](https://github.com/PP189B/nv-lua) -- fork of my friend's Neovim config with some changes.
-* [Simple i3wm config](https://github.com/PP189B/my-linux-configs) -- just little repo for i3wm configuration after installing. Someone might find this useful.
 
 
 ## My expertises
