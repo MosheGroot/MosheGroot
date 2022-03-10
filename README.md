@@ -31,7 +31,7 @@ Most of my usefull projects are notes. Some other interesting programming projec
   + [minishell](https://github.com/LinearBasis/minishell):          Own implementation of shell
   + [miniRT](https://github.com/PP189B/42projects_archive/tree/main/miniRT):             Raytracing project with multi-threading
   + [philosophers](https://github.com/PP189B/42projects_archive/tree/main/philosophers):   Two classic multithreading and IPC problems
-  + [ft_printf](https://github.com/PP189B/42projects_archive/tree/main/ft_printf):            Own implementation system `printf` function
+  + [ft_printf](https://github.com/PP189B/42projects_archive/tree/main/ft_printf):            Own implementation of system `printf` function
 * [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
 * [Probability theory notes [rus]](https://github.com/PP189B/Probability_theory) -- uncomplete notes from (not very good quality) university course.
 
