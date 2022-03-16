@@ -93,7 +93,8 @@ Below you can find my social networks, CV, old or current projects and my expert
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
-
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PP189B)]()
 
 
 
