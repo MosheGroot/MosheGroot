@@ -27,7 +27,8 @@ Below you can find my social networks, CV, old or current projects and my expert
   + [webserv](https://github.com/PP189B/webserver21/):           Implementation of webserver (like nginx)
   + [ft_containers](https://github.com/PP189B/42projects_archive/tree/main/ft_containers):   Rewriting of some STL containers
   + [minishell](https://github.com/LinearBasis/minishell):          Own implementation of shell
-  + [miniRT](https://github.com/PP189B/42projects_archive/tree/main/miniRT):             Raytracing project with multi-threading
+  + [miniRT](https://github.com/PP189B/42projects_archive/tree/main/miniRT):             Raytracing project with multithreading
+  + [fract'ol](https://github.com/PP189B/42projects_archive/tree/main/fract_ol)             Drawing fractals (also with multithreading)
   + [philosophers](https://github.com/PP189B/42projects_archive/tree/main/philosophers):   Two classic multithreading and IPC problems
   + [ft_printf](https://github.com/PP189B/42projects_archive/tree/main/ft_printf):            Own implementation of system `printf` function
 * My learning and practice repositories:
