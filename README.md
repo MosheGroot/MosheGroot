@@ -18,8 +18,7 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 ## CV
 
-[![CV_en][CV_en]][CV_en_path]
-[![CV_ru][CV_ru]][CV_ru_path]
+[![CV][CV]][CV_path]
 
 ## My projects
 
@@ -100,11 +99,9 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 
 
-[CV_en_path]: Pavel_Kirin_CV_en.pdf
-[CV_en]: https://img.shields.io/badge/CV%20[EN]-D3182A?style=for-the-badge&logoColor=white
+[CV_path]: Pavel_Kirin_CV_en.pdf
+[CV]: https://img.shields.io/badge/CV-D3182A?style=for-the-badge&logoColor=white
 
-[CV_ru_path]: Pavel_Kirin_CV_ru.pdf
-[CV_ru]: https://img.shields.io/badge/CV%20[RU]-D3182A?style=for-the-badge&logoColor=white
 
 [telegram_link]: https://t.me/pp189b
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
