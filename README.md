@@ -22,7 +22,7 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 ## My projects
 
-* [42 projects archive](https://github.com/PP189B/42projects_archive) --  interesting projects from Ecole42 (the rest in private repo).
+* [42 projects archive](https://github.com/PP189B/42projects_archive) --  interesting projects from Ecole42 (the rest in private repositories).
   + [Piscine Python DS](https://github.com/PP189B/Piscine-Python-Data-Science):   Learning DS in Python from zero
   + [webserv](https://github.com/PP189B/webserver21/):           Implementation of webserver (like nginx)
   + [ft_containers](https://github.com/PP189B/42projects_archive/tree/main/ft_containers):   Rewriting of some STL containers
