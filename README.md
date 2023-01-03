@@ -1,5 +1,4 @@
-# pp189 / mgroot
-###### My common nicknames are pp189, pp189b and mgroot.
+# Pavel Kirin / Moshe Groot / mgroot
 
 ## About me
 Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and a little bit of deep learning.
