@@ -21,20 +21,23 @@ Below you can find my social networks, CV, old or current projects and my expert
 
 ## My projects
 
-* [42 projects archive](https://github.com/PP189B/42projects_archive) --  interesting projects from Ecole42 (the rest in private repositories).
-  + [Piscine Python DS](https://github.com/PP189B/Piscine-Python-Data-Science):   Learning DS in Python from zero
-  + [webserv](https://github.com/PP189B/webserver21/):           Implementation of webserver (like nginx)
-  + [ft_containers](https://github.com/PP189B/42projects_archive/tree/main/ft_containers):   Rewriting of some STL containers
+* [42 projects archive](https://github.com/MosheGroot/42projects_archive) --  interesting projects from Ecole42 (the rest in private repositories).
+  + [Piscine Python DS](https://github.com/MosheGroot/Piscine-Python-Data-Science):   Learning DS in Python from zero
+  + [webserv](https://github.com/MosheGroot/webserver21/):           Implementation of webserver (like nginx)
+  + [ft_containers](https://github.com/MosheGroot/42projects_archive/tree/main/ft_containers):   Rewriting of some STL containers
   + [minishell](https://github.com/LinearBasis/minishell):          Own implementation of shell
-  + [miniRT](https://github.com/PP189B/42projects_archive/tree/main/miniRT):             Raytracing project with multithreading
-  + [fract'ol](https://github.com/PP189B/42projects_archive/tree/main/fract_ol)              Drawing fractals (also with multithreading)
-  + [philosophers](https://github.com/PP189B/42projects_archive/tree/main/philosophers):   Two classic multithreading and IPC problems
-  + [ft_printf](https://github.com/PP189B/42projects_archive/tree/main/ft_printf):            Own implementation of system `printf` function
+  + [miniRT](https://github.com/MosheGroot/42projects_archive/tree/main/miniRT):             Raytracing project with multithreading
+  + [fract'ol](https://github.com/MosheGroot/42projects_archive/tree/main/fract_ol)              Drawing fractals (also with multithreading)
+  + [philosophers](https://github.com/MosheGroot/42projects_archive/tree/main/philosophers):   Two classic multithreading and IPC problems
+  + [ft_printf](https://github.com/MosheGroot/42projects_archive/tree/main/ft_printf):            Own implementation of system `printf` function
 * My learning and practice repositories:
-  + [Design patterns practice](https://github.com/PP189B/Design-patterns-practice/)
-  + [Multithreaded programming practice](https://github.com/PP189B/Multithreaded-programming-practice) 
-* [Deep learning HSE notes [rus]](https://github.com/PP189B/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
-* [Probability theory notes [rus]](https://github.com/PP189B/Probability_theory) -- uncomplete notes from (not very good quality) university course.
+  + [Design patterns practice](https://github.com/MosheGroot/Design-patterns-practice/)
+  + [Multithreaded programming practice](https://github.com/MosheGroot/Multithreaded-programming-practice)
+  + [Algorithms partcice](https://github.com/MosheGroot/Algorithms-partcice)
+* Various `TeX` notes:
+  + [Deep learning HSE notes [rus]](https://github.com/MosheGroot/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
+  + [Combinatorics [rus]](https://github.com/MosheGroot/Combinatorics-notes) -- some notes from the "Combinatorics" book by Vilenkin, N. Ya
+  + [Probability theory notes [rus]](https://github.com/MosheGroot/Probability_theory) -- uncomplete notes from (not very good quality) university course.
 
 
 ## My expertises
