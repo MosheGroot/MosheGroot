@@ -33,7 +33,7 @@ Below you can find my social networks, CV, old or current projects and my expert
 * My learning and practice repositories:
   + [Design patterns practice](https://github.com/MosheGroot/Design-patterns-practice/)
   + [Multithreaded programming practice](https://github.com/MosheGroot/Multithreaded-programming-practice)
-  + [Algorithms partcice](https://github.com/MosheGroot/Algorithms-partcice)
+  + [Algorithms partice](https://github.com/MosheGroot/Algorithms-partice)
 * Various `TeX` notes:
   + [Deep learning HSE notes [rus]](https://github.com/MosheGroot/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
   + [Combinatorics [rus]](https://github.com/MosheGroot/Combinatorics-notes) -- some notes from the "Combinatorics" book by Vilenkin, N. Ya
