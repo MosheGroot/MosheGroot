@@ -100,13 +100,13 @@ Below you can find my social networks, CV, old or current projects and my expert
 [CV]: https://img.shields.io/badge/CV-D3182A?style=for-the-badge&logoColor=white
 
 
-[telegram_link]: https://t.me/pp189b
+[telegram_link]: https://t.me/MosheGroot
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
 
-[linkedin_link]: https://linkedin.com/in/pp189
+[linkedin_link]: https://linkedin.com/in/MosheGroot
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin profile"
 
-[habr_link]: https://habr.com/ru/users/pp189b/posts/
+[habr_link]: https://habr.com/ru/users/MosheGroot/posts/
 [habr_badge]: https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white "Habr profile"
 
 [42_link]: https://profile.intra.42.fr/users/mgroot
