@@ -1,9 +1,9 @@
 # Pavel Kirin / Moshe Groot / mgroot
 
 ## About me
-Welcome to my github profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and a little bit of deep learning.
+Welcome to my GitHub profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and deep learning.
 
-Below you can find my social networks, CV, old or current projects and my expertises.
+Below you can find my social networks, CV, and old or current projects.
 
 ## Me in other networks
 
@@ -35,7 +35,7 @@ Below you can find my social networks, CV, old or current projects and my expert
 * Various `TeX` notes:
   + [Deep learning HSE notes [rus]](https://github.com/MosheGroot/deep_learning_hse_notes)  \[*suspended*\] -- some notes from [Deep learning HSE course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) on coursera.
   + [Combinatorics [rus]](https://github.com/MosheGroot/Combinatorics-notes) -- some notes from the "Combinatorics" book by Vilenkin, N. Ya
-  + [Probability theory notes [rus]](https://github.com/MosheGroot/Probability_theory) -- uncomplete notes from (not very good quality) university course.
+  + [Probability theory notes [rus]](https://github.com/MosheGroot/Probability_theory) -- uncomplete notes from a (not very good quality) university course.
 
 
 [CV_path]: Pavel_Kirin_CV_en.pdf
