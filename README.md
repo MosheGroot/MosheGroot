@@ -38,7 +38,7 @@ Below you can find my social networks, CV, and old or current projects.
   + [Probability theory notes [rus]](https://github.com/MosheGroot/Probability_theory) -- uncomplete notes from a (not very good quality) university course.
 
 
-[CV_path]: Pavel_Kirin_CV_en.pdf
+[CV_path]: Pavel_Kirin_CV.pdf
 [CV]: https://img.shields.io/badge/CV-D3182A?style=for-the-badge&logoColor=white
 
 
