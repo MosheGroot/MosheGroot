@@ -3,9 +3,9 @@
 ## About me
 Welcome to my GitHub profile. My name is Pavel and I am a student of School 21 (Ecole 42 in Paris). I'm interested in software programming, algorithms, optimizations, mathematics and deep learning.
 
-Below you can find my social networks, CV, and old or current projects.
+I've included my social networks, CV, and old or current projects.
 
-## Me in other networks
+## Me in other socials
 
 [![Telegram contact][telegram_badge]][telegram_link]
 [![Linkedin profile][linkedin_badge]][linkedin_link]
